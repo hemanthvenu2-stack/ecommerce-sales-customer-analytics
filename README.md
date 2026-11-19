@@ -96,4 +96,4 @@ Capture:
 Update this section after completing the project. Mention how you used joins, grouping, HAVING, subqueries, CTEs, window functions, views, and stored procedures to answer business questions.
 
 ## Author
-Add your name, GitHub profile, and LinkedIn profile before publishing.
+Hemanth v https://github.com/hemanthvenu2-stack/ecommerce-sales-customer-analytics www.linkedin.com/in/venu-hemanth-0b76263b3
